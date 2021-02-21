@@ -2,3 +2,4 @@ temp_website/db.sqlite3
 venv
 *.pyc
 .idea/
+__pycache__/
